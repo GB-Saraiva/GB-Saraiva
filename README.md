@@ -1,7 +1,7 @@
 # Hello there!🖖
 
 ## About me
-student in the second semester of Systems Analysis and Development. Backend developer, some of my hobbies include skateboarding, yoyo, gaming and used to watch anime.
+Student in the third semester of Systems Analysis and Development. Backend developer, some of my hobbies include skateboarding, yoyo, gaming and used to watch anime.
 
 ## Skills
 <p align="left">
@@ -17,11 +17,12 @@ student in the second semester of Systems Analysis and Development. Backend deve
     <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-256.png" alt="GitHub" height="35" width="35"/>
 </p>
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745F5&color:FFF)](https://www.linkedin.com/in/gabriel-saraiva-567718284/)
+##Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745F5&color:FFF)](https://www.linkedin.com/in /gabriel-saraiva-567718284/)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745F5&color:FFF)](mailto:gabrielc.sara@gmail.com)  
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=gb-saraiva&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&hide=contribs" alt="GitHub stats" height="170"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-saraiva&theme=midnight-purple&hide_border=true" alt="Most Used Languages" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-saraiva&theme=midnight-purple&hide_border=true" alt="Most Used Languages" height="170" />
 </p>
+ 

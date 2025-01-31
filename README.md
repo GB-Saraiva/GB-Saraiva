@@ -18,7 +18,7 @@ Student in the third semester of Systems Analysis and Development. Backend devel
 </p>
 
 ##Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745F5&color:FFF)](https://www.linkedin.com/in /gabriel-saraiva-567718284/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745F5&color:FFF)](https://www.linkedin.com/in/gabriel-saraiva-567718284/)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745F5&color:FFF)](mailto:gabrielc.sara@gmail.com)  
 
 <p align="left">

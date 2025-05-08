@@ -1,7 +1,15 @@
 # Hello there!🖖
 
 ## About me
-Student in the third semester of Systems Analysis and Development. Backend developer, some of my hobbies include skateboarding, yoyo, gaming and used to watch anime.
+Student in the third semester of Systems Analysis and Development in Fatec Rubens Lara. FullStack developer and Industrial Automation Technician.
+
+---
+
+## 🔗 Other Profiles  
+Check my other GitHub profile:  
+🔗 [Gabriel Saraiva](https://github.com/gabriel-saraiva-flooxai)  
+
+---  
 
 ## Skills
 <p align="left">

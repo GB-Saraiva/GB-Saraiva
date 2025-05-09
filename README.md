@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 🖖</h1>
+<h1 align="center">👋 Hello there!</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong> | Industrial Automation Technician<br>
@@ -7,39 +7,43 @@
 
 ---
 
-## 🌐 Other Profiles
+<h2 align="center">🌐 Professional Profile</h2>
 
-- [**Secondary GitHub (FlooxAI)**](https://github.com/gabriel-saraiva-flooxai)
-
----
-
-## 🛠️ Skills
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" alt="Python" width="30" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c.svg" alt="C" width="30" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" alt="C++" width="30" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-sharp.svg" alt="C#" width="30" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/dotnet.svg" alt=".NET" width="30" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" alt="HTML" width="30" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" alt="CSS" width="30" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/arduino.svg" alt="Arduino" width="30" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git-icon.svg" alt="Git" width="30" />
-  <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-256.png" alt="GitHub" width="30"/>
+<p align="center">
+  <a href="https://github.com/gabriel-saraiva-flooxai">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
 
 ---
 
-## 📬 Contact Me
+<h2 align="center">🧰 Tech Stack</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gabriel-saraiva-567718284/)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gabrielc.sara@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blank,javascript,react,redux,nodejs,express,webpack,tailwind,bootstrap,html,css,git,npm,vscode" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mongodb,mysql,firebase,postman,figma,dotnet,cs,cpp,c,redis,regex,bash,blank" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📈 GitHub Activity</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gb-saraiva&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&hide=contribs" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-saraiva&theme=midnight-purple&hide_border=true&layout=compact" height="170" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gb-saraiva&show_icons=true&hide_border=true&theme=holi&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-saraiva&theme=holi&hide_border=true&layout=compact" height="170" />
+</p>
+
+---
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-saraiva-567718284/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:gabrielc.sara@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>

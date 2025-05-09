@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/gabriel-saraiva-flooxai">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/-GitHub-282a36?style=for-the-badge&logo=github&logoColor=ff79c6" />
   </a>
 </p>
 
@@ -41,9 +41,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-saraiva-567718284/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" />
   </a>
   <a href="mailto:gabrielc.sara@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/-Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=0ea5e9" />
   </a>
 </p>
